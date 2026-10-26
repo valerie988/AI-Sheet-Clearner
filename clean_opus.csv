@@ -1,0 +1,6 @@
+order_date,customer,region,amount,confidence
+2026-01-15,Acme Corp,West,1250.00,
+2026-01-16,Beta LLC,East,980.00,
+2026-01-17,Gamma Inc,West,2300.00,0.95
+2026-01-18,Delta Co,North,410.50,
+2026-01-19,Epsilon,South,1875.00,
